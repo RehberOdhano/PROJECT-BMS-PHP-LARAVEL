@@ -1,0 +1,15 @@
+.success {
+    border: 3px solid #82BB41 !important;
+}
+
+.error {
+    border: 3px solid #D3212D !important;
+}
+
+.errormsg {
+    color: #D3212D;
+}
+
+.successmsg {
+    color: #82BB41;
+}

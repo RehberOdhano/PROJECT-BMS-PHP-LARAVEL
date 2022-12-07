@@ -1,0 +1,121 @@
+{
+    "menu": [{
+            "url": "/dists/admin/dashboard",
+            "name": "Dashboard",
+            "slug": "dist-admin-dashboard",
+            "icon": "desktop",
+            "tagcustom": "badge badge-light-danger badge-pill badge-round float-right mr-50"
+        },
+        {
+            "navheader": "Menu"
+        },
+        {
+            "url": "dists/admin/stocks",
+            "name": "Stocks",
+            "slug": "stock",
+            "icon": "box"
+        },
+        {
+            "url": "dists/admin/sales",
+            "name": "Sales",
+            "slug": "sales",
+            "icon": "bar-chart"
+        },
+        {
+            "url": "dists/admin/products",
+            "name": "Products",
+            "slug": "products",
+            "icon": "thumbnails-big"
+        },
+        {
+            "url": "dists/admin/packages",
+            "name": "Packages",
+            "slug": "packages",
+            "icon": "thumbnails-big"
+        },
+        {
+            "url": "dists/admin/categories",
+            "name": "Categories",
+            "slug": "categories",
+            "icon": "grid"
+        },
+        {
+            "url": "dists/admin/flavors",
+            "name": "Flavors",
+            "slug": "flavors",
+            "icon": "lab"
+        },
+        {
+            "url": "dists/admin/employees",
+            "name": "Employees",
+            "slug": "employees",
+            "icon": "users"
+        },
+        {
+            "url": "dists/admin/users",
+            "name": "Users",
+            "slug": "users",
+            "icon": "users"
+        },
+        {
+            "url": "dists/admin/suppliers",
+            "name": "Suppliers",
+            "slug": "suppliers",
+            "icon": "truck"
+        },
+        {
+            "url": "dists/admin/outlets",
+            "name": "Outlets",
+            "slug": "outlets",
+            "icon": "building"
+        },
+        {
+            "url": "dists/admin/debit-credit",
+            "name": "Debit-Credit",
+            "slug": "debit-credit",
+            "icon": "credit-card-out"
+        },
+        {
+            "url": "dists/admin/expenses",
+            "name": "Expenses",
+            "slug": "expenses",
+            "icon": "coins"
+        },
+        {
+            "url": "dists/admin/expense/titles",
+            "name": "Expense Titles",
+            "slug": "expenses titles",
+            "icon": "coins"
+        },
+        {
+            "url": "dists/admin/ledger",
+            "name": "Ledgers",
+            "slug": "ledger",
+            "icon": "notebook"
+        },
+        {
+            "url": "dists/admin/vehicle",
+            "name": "Vehicles",
+            "slug": "vehicle",
+            "icon": "truck"
+        },
+        {
+            "url": "dists/admin/invoices",
+            "name": "Invoices",
+            "slug": "invoices",
+            "icon": "notebook"
+        },
+        {
+            "url": "dists/admin/reports",
+            "name": "Reports",
+            "slug": "reports",
+            "icon": "line-chart"
+        },
+        {
+            "url": "dists/admin/profile",
+            "name": "Profile",
+            "slug": "dists-admin-profile",
+            "icon": "user"
+        }
+    ]
+}

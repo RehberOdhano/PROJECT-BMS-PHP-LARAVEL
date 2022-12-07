@@ -1,0 +1,37 @@
+{
+    "menu": [{
+            "url": "/superadmin/dashboard",
+            "name": "Dashboard",
+            "slug": "super-admin-dashboard",
+            "icon": "desktop",
+            "tagcustom": "badge badge-light-danger badge-pill badge-round float-right mr-50"
+        },
+        {
+            "navheader": "Menu"
+        },
+        {
+            "url": "/superadmin/admins",
+            "name": "Admins",
+            "slug": "admins",
+            "icon": "users"
+        },
+        {
+            "url": "/superadmin/distributions",
+            "name": "Distributions",
+            "slug": "distributions",
+            "icon": "box"
+        },
+        {
+            "url": "/superadmin/payments",
+            "name": "Payments",
+            "slug": "payments",
+            "icon": "credit-card-out"
+        },
+        {
+            "url": "/superadmin/profile",
+            "name": "Profile",
+            "slug": "admin-profile",
+            "icon": "user"
+        }
+    ]
+}
